@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="https://i.imgur.com/aDKXZVF.jpg"/>
 
-<!--
-**destinycisternas/destinycisternas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+   codeLangs: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Flutter"],
+   technologies: {
+      frontEnd: {
+        js: ["React.js", "Angular", "Vue.js", "Nextjs", "Nuxtjs"],
+        css: ["Styled-Components", "SASS", "Tailwind", "Bootstrap", "Material", "Ant Design"],
+        testing: ["Jest", "Enzyme", "Cypress"]
+      },
+      backEnd: {
+        js: ["Node", "Express"],
+        python: ["Django"],
+        misc: ["Selenium"]
+      },
+      "CI/CD": ["Docker", "Kubernetes", "Github Actions", "Jenkins"],
+      databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLServer"],
+      mobile: ["React Native", "Cordova", "Flutter"]
+   }
+};
+```
+</br></br>

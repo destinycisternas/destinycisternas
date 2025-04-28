@@ -1,23 +1,20 @@
-<img src="https://i.imgur.com/aDKXZVF.jpg"/>
+# <img src="https://i.imgur.com/aDKXZVF.jpg"/>
 
 
 ```javascript
 const me = {
-   codeLangs: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Flutter"],
+   codeLangs: ["Javascript", "HTML", "CSS", "PYTHON"],
    technologies: {
       frontEnd: {
-        js: ["React.js", "Angular", "Vue.js", "Nextjs", "Nuxtjs"],
-        css: ["Styled-Components", "SASS", "Tailwind", "Bootstrap", "Material", "Ant Design"],
+        js: ["React.js", "Vue.js", "Vite", "Next.js"],
+        css: ["Styled-Components", "SASS", "Bootstrap"],
         testing: ["Jest", "Enzyme", "Cypress"]
       },
       backEnd: {
-        js: ["Node", "Express"],
-        python: ["Django"],
-        misc: ["Selenium"]
+        js: ["Node"],
+        python: ["Django"]
       },
-      "CI/CD": ["Docker", "Kubernetes", "Github Actions", "Jenkins"],
-      databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLServer"],
-      mobile: ["React Native", "Cordova", "Flutter"]
+      databases: ["PostgreSQL", "MySQL", "MongoDB"],
    }
 };
 ```

@@ -1,4 +1,4 @@
-<img src="<img src="[https://i.imgur.com/aDKXZVF.jpg](https://imgur.com/a/bXsymhS)"/>"/>
+<img src=https://i.imgur.com/aDKXZVF.jpg(https://imgur.com/a/bXsymhS)"/>"/>
 
 
 ```javascript

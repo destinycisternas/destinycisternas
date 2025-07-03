@@ -1,20 +1,14 @@
 <img src="https://i.imgur.com/xyRYDEs.jpg" width="250" />
 
-```javascript
 const me = {
-   codeLangs: ["Javascript", "HTML", "CSS", "PYTHON"],
-   technologies: {
-      frontEnd: {
-        js: ["React.js", "Vue.js", "Vite", "Next.js"],
-        css: ["Styled-Components", "SASS", "Bootstrap"],
-        testing: ["Jest", "Enzyme", "Cypress"]
-      },
-      backEnd: {
-        js: ["Node"],
-        python: ["Django"]
-      },
-      databases: ["PostgreSQL", "MySQL", "MongoDB"],
-   }
+  languages: ["JavaScript", "HTML", "CSS", "Python"],
+  frontEnd: {
+    frameworks: ["React.js", "Vue.js", "Next.js", "Vite"],
+    styles: ["SASS", "Styled-Components", "Bootstrap"]
+  },
+  backEnd: {
+    frameworks: ["Node.js", "Django"]
+  },
+  databases: ["PostgreSQL", "MySQL", "MongoDB"],
+  testingTools: ["Jest", "Enzyme", "Cypress"]
 };
-```
-</br></br>

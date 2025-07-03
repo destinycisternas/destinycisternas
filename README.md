@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xyRYDEs.jpg" width="250" />
+<img src="https://i.imgur.com/xyRYDEs.jpg" width="auto" he />
 
 const me = {
   languages: ["JavaScript", "HTML", "CSS", "Python"],

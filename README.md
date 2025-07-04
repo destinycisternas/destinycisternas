@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/jeb9uHl.jpg" alt="Imagen" width="750" height="650" />
+<img src="https://i.imgur.com/jeb9uHl.jpg" alt="Imagen" width="1000" height="700" />
 
 
 ```json

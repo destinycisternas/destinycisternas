@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/xyRYDEs.jpg" width="auto" />
+<img src="https://i.imgur.com/jeb9uHl.jpg" alt="Imagen" width="auto" />
+
 
 ```json
 {
